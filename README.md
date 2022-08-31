@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phil George</h1>
-<h3 align="center">A passionate full stack engineer with a professional background in healthcare, marketing and retail</h3>
+<h3 align="center">A passionate full stack engineer with a professional SWE background in healthcare, marketing and retail</h3>
 
 - 🔭 I’m currently working on [Messenger + P2P (WebRTC) Video Chat](https://github.com/pg328/forgechat_messenger)
 
