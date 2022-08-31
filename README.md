@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **phil@forge.limited || philipgeorge1337@yahoo.co.uk**
 
-- 📄 Know about my experiences [https://github.com/pg328/pg328/blob/main/Philip's%20Resume.pdf](My CV)
+- 📄 Know about my experiences [https://github.com/pg328/pg328/blob/main/Philip's%20Resume.pdf](https://github.com/pg328/pg328/blob/main/Philip's%20Resume.pdf)
 
 - ⚡ Fun fact **I won an "Outstanding" award for beatboxing in the UK A Cappella finals back in 2017**
 
