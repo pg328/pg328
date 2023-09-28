@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate full stack engineer with a professional SWE background in healthcare, marketing, construction and retail</h3>
 
-- 🔭 I’m currently working on [Messenger + P2P (WebRTC) Video Chat](https://github.com/pg328/forgechat_messenger)
+- 🔭 I’m currently working on [my own startup (in stealth)]()
 
 - 🌱 I’m currently learning **Next.js, Kafka, Enzyme, Node, Deno, Bun, Fresh, Astro, Websockets**
 
